@@ -1,0 +1,3 @@
+rootProject.name = 'corsarios_app'
+
+include ':app'
